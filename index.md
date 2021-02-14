@@ -1,8 +1,6 @@
-## Silvia Ceausu
+### Silvia Ceausu
 
-You can use the [editor on GitHub](https://github.com/SilviaCeausu/SilviaCeausu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Conservation scientist at [University College London] (https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment/research/centre-biodiversity-and-environment-research-cber)
 
 ### Markdown
 
