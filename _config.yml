@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Silvia Ceaușu"
+title                    : "Silvia Ceaușu, PhD"
 title_separator          : "-"
 name                     : &name "Silvia Ceaușu"
-description              : &description "personal description"
+description              : &description "Biodiversity scientist at University College London"
 url                      : https://silviaceausu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "silviaceausu/silviaceausu.github.io"
+repository               : "silviaceausu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Silvia Ceaușu"
+  name             : "Silvia Ceaușu, PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Biodiversity conservation, ecosystem services, agricultural systems, rewilding"
   location         : "London, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
