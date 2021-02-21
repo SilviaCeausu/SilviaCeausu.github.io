@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Silvia Ceaușu, PhD"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Silvia Ceaușu"
 description              : &description "Biodiversity scientist at University College London"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "SilviaCeausu"
   google_plus      :
   keybase          :
   instagram        :
