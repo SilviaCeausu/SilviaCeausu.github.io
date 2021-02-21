@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Silvia Ceaușu"
 description              : &description "Biodiversity scientist at University College London"
