@@ -15,45 +15,9 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    
-<style>
-* {
-  box-sizing: border-box;
-}
 
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-}
-
-.left {
-  width: 75%;
-}
-
-.right {
-  width: 25%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-
-<div class="row">
-  <div class="column left" >
     {{ content }}
-</div>
 
-  <div class="column right" >
-    <a class="twitter-timeline" data-width="300" data-tweet-limit="10" data-theme="light" href="https://twitter.com/SilviaCeausu?ref_src=twsrc%5Etfw">Tweets by SilviaCeausu</a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-</div>
-    
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
