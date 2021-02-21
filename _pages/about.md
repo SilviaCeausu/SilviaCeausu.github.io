@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Silvia Ceaușu - About me"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
