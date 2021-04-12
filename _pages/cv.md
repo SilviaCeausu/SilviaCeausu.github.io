@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Biology, _summa cum laude_, Centre for Integrative Biodiversity Research (iDiv)/Martin Luther University (Germany), 2017
+* M.Sc. in Environmental Sciences, Policy and Management (MESPOM), Central European University (Hungary) / Lund University (Sweden) /University of Manchester (UK), 2009
+* M.Sc. in Systems Ecology and Sustainable Development, University of Bucharest (Romania), 2007
+* B.Sc. in Ecology and Environmental Sciences, Ovidius University Constanța (Romania), 2005
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* March 2020 – present 	  Research Fellow, Faculty of Life Sciences, Division of Biosciences, University College London
+* Mar. 2019 – Mar. 2020 	Research Fellow in Statistical Analysis and Modelling, School of Geography and Environmental Science, University of Southampton (UK)
+* Oct. 2017 - Feb. 2019 	Postdoctoral Researcher at Aarhus University, Department of Bioscience (Denmark)
+* Oct. 2013 - Jun. 2017 	Doctoral researcher, German Centre for Integrative Biodiversity Research (iDiv) (Germany)
+* Jul. 2010 - Sept. 2013 	Research Assistant, University of Lisbon, Faculty of Sciences (Portugal)
+* Apr. 2006 - Jun. 2010 	Analyst, National Environmental Protection Agency (Romania)
 
 Publications
 ======
@@ -54,6 +43,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
