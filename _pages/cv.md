@@ -61,8 +61,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+2018		Lecture on human-wildlife coexistence, Biogeography & Macroecology - postgraduate course, Aarhus University. 
+2018		Supervision of four students for nine weeks conducting a research project for Theory and Practice in Biological Research – undergraduate course, Aarhus University. 
+2017		Lecture on conservation planning and area prioritization, Biogeography & Macroecology - master course, Aarhus University. In addition to the lecture itself, I conducted a practical exercise on conservation planning and guided discussions among the students. 
+2015		Teaching Assistant (R programming), Spatial Ecology course - master program, Martin Luther University of Halle-Wittenberg. The teaching involved design and delivery of practical exercises. 
+2012		Teaching Assistant (R programming), Theoretical Ecology course - undergraduate program, Faculty of Sciences of the University of Lisbon, Portugal. The teaching involved design and delivery of practical exercises. 
+
   
 
