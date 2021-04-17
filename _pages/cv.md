@@ -34,17 +34,29 @@ Publications
 Talks
 ======
 •	Dec. 2020	  **Presenter** in a thematic session of the British Ecological Society annual meeting, Festival of Ecology, online conference due to COVID19
+
 •	Oct. 2019 	**Presenter, session co-host and volunteer in the organisation team** at the 10th Ecosystem Services Partnership World Conference, Hannover, Germany
+
 •	May 2019 	  **Invited speaker** of the Socio-ecosystems seminar at National Research Institute of Science and Technology for Environment and Agriculture (Irstea) - Grenoble
+
 •	Jun. 2019 	**Presenter of research progress to project’s sponsors**, the Swiss Federal Department of Foreign Affairs, in sponsor review
+
 •	Jun. 2018 	**Presenter of research progress to project’s sponsors**, Villum Foundation, in annual sponsor review 
+
 •	Aug. 2018 	**Presenter** at Ecological Society of America Annual Meeting, New Orleans, USA
+
 •	Jun. 2018 	**Presenter** at Boundary Spanning: Advances in Socio-Environmental Systems Research, SESYNC symposium, Annapolis, USA
+
 •	Sep. 2017 	**Presenter** for UNEP/UNESCO/BMUB International Short Course on Ecosystem Management for policy-makers from low-income countries
+
 •	Mar. 2017  	**Presenter** at Natural Capital Symposium, Stanford University, Stanford, USA
+
 •	Jul. 2016 	**Presenter** at GEO BON Open Science Conference & All Hands Meeting, Leipzig, Germany 
+
 •	Aug. 2015 	**Presenter** at 27th International Congress for Conservation Biology, 4th European Congress for Conservation Biology, Montpellier, France 
+
 •	Aug. 2012 	**Presenter** at 3rd European Congress of Conservation Biology, Glasgow, UK 
+
 •	Aug. 2011 	**Presenter** and recipient of travel award at IALE World Congress: Landscape Ecology for Sustainable Environment and Culture, Beijing, China
   
 Teaching
