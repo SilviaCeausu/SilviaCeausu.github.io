@@ -1,7 +1,7 @@
 ---
 title: 'Good Economics for Hard Times'
 date: 2021-08-26
-permalink: 2021-08-26GoodEconomics4HardTimes
+permalink: /posts/2021/08/GoodEconomics4HardTimes/
 tags:
 - economics
 ---
