@@ -1,7 +1,6 @@
 ---
 layout: archive_simple
 title: "Publications"
-permalink: /publications/
 author_profile: true
 ---
 
