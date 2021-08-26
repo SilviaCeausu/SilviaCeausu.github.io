@@ -12,7 +12,7 @@ I am a conservation scientist interested in how biodiversity responds to human a
 
  My research is focused on three major themes: 
 
-* spatial and statistical models of how biodiversity is responding to agricultural expansion and intensification as part of my research within the [GCRF TRADE Hub project] (https://tradehub.earth/)
-* internal human migration in low and middle income countries in collaboration with [WorldPop] (https://www.worldpop.org/) and [Flowminder] (https://www.flowminder.org/)
+* spatial and statistical models of how biodiversity is responding to agricultural expansion and intensification as part of my research within the [GCRF TRADE Hub project](https://tradehub.earth/)
+* internal human migration in low and middle income countries in collaboration with [WorldPop](https://www.worldpop.org/) and [Flowminder](https://www.flowminder.org/)
 * human-environment interactions that unifies my research interests in ecosystem services, human-wildlife coexistence and human geography. 
 
