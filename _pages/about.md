@@ -14,7 +14,7 @@ My goal is to develop tools and insights that support sustainable human developm
 
  My research is focused on three major themes: 
 
-* biodiversity impacts of agricultural expansion and intensification as part of my research within the [GCRF TRADE Hub project](https://tradehub.earth/)
-* internal human migration in low and middle income countries in collaboration with [WorldPop](https://www.worldpop.org/) and [Flowminder](https://www.flowminder.org/)
-* human-environment interactions that unifies my research on ecosystem services, human-wildlife coexistence and human geography. 
+* conservation and rewilding in agricultural landscapes. I am currently researching biodiversity impacts of agricultural expansion and intensification as part of my research within the [GCRF TRADE Hub project](https://tradehub.earth/). 
+* internal human migration in low and middle income countries in collaboration with [WorldPop](https://www.worldpop.org/) and [Flowminder](https://www.flowminder.org/). 
+* human-environment interactions that brings together my research on ecosystem services, human-wildlife coexistence and human geography. 
 
