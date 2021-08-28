@@ -11,8 +11,7 @@ author_profile: true
 * 2018		Supervision of four students conducting a 9 weeks research project for Theory and Practice in Biological Research – undergraduate course, Aarhus University. 
 * 2017		Lecture on conservation planning and area prioritization, Biogeography & Macroecology - master course, Aarhus University. In addition to the lecture itself, I conducted a practical exercise on conservation planning.
 
-![Plan your conservation areas](https://github.com/SilviaCeausu/SilviaCeausu.github.io/tree/main/images/SimplifiedLandscape.jpg). 
-
+![Plan your conservation areas](https://github.com/SilviaCeausu/SilviaCeausu.github.io/tree/main/images/SimplifiedLandscape.png)
 
 In this simplified landscape, each square represents a spatial unit and each animal shape represents a species. There is not one correct answer and the exercise provides an opportunity to discuss themes such as fragmentation and poplation size. 
 * 2015		Teaching Assistant (R programming), Spatial Ecology course - master program, Martin Luther University of Halle-Wittenberg.  
