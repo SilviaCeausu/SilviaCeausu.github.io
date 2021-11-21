@@ -10,7 +10,9 @@ redirect_from:
 
 I am a conservation scientist at the [Centre for Biodiversity and Environment Research](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment/research/centre-biodiversity-and-environment-research-cber) at University College London.
 
-My goal is to develop tools and insights that support sustainable human development and coexistence between biodiversity and people. I am particularly interested in how biodiversity responds to human activities, and how humans interact with biodiversity and derive benefits from it through ecosystem services. The answers to many of the major questions in conservation are at the intersection between traditional research disciplines. This suits my natural impulse to explore and create new connections between conservation and other research areas. Currently, I mainly draw from ecology, economics and human geography. 
+My goal is to develop tools and insights that support sustainable human development and human-wildlife coexistence coexistence. I am particularly interested in how biodiversity responds to human activities, and how humans interact and derive benefits from their environment. 
+
+The answers to many of the major questions in conservation are at the intersection of traditional research disciplines. This suits my impulse to explore new connections between conservation and other research areas. Currently, I mainly draw from ecology, economics and human geography. 
 
  My research is focused on three major themes: 
 
