@@ -34,9 +34,9 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 
 # Pre-prints
 
-•	Vogel S. M., Monsarrat s., Pasgaard m., Buitenwerf r., Custock A. C., Ceauşu S., Li W., Gordon C. E., Jarvie S., Mata J. C., Pearce E. A., Svenning J.-C. In review. A multi-disciplinary perspective to nuance the narrative of tree planting as a nature-based solution. Available at: https://osf.io/preprints/socarxiv/5ymqt/ 
+•	Vogel S. M., Monsarrat s., Pasgaard m., Buitenwerf r., Custock A. C., Ceauşu S., Li W., Gordon C. E., Jarvie S., Mata J. C., Pearce E. A., Svenning J.-C. In review. A multi-disciplinary perspective to nuance the narrative of tree planting as a nature-based solution. Available at: [https://osf.io/preprints/socarxiv/5ymqt/](https://osf.io/preprints/socarxiv/5ymqt/) 
 
-•	Ceaușu S., Sossai E.1, Borda-de-Água L., Merckx T., Sapage M., Miranda M., Pereira H. M. 2018. High impact journals in ecology cover proportionally more significant findings. Available at: https://www.biorxiv.org/content/biorxiv/early/2018/04/30/311068.full.pdf. 
+•	Ceaușu S., Sossai E.1, Borda-de-Água L., Merckx T., Sapage M., Miranda M., Pereira H. M. 2018. High impact journals in ecology cover proportionally more significant findings. Available at: [https://www.biorxiv.org/content/biorxiv/early/2018/04/30/311068.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2018/04/30/311068.full.pdf). 
 
 # Book chapters, technical reports and non-peer-reviewed publications
 
