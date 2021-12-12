@@ -10,9 +10,9 @@ redirect_from:
 
 I am a conservation scientist at the [Centre for Biodiversity and Environment Research](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment/research/centre-biodiversity-and-environment-research-cber) at University College London.
 
-My goal is to develop tools and insights that support sustainable human development and human-wildlife coexistence coexistence. I am particularly interested in how biodiversity responds to human activities, and how humans interact and derive benefits from their environment. 
+My goal is to develop tools and insights that support sustainable human development and human-wildlife coexistence. I am particularly interested in how biodiversity responds to human activities, and how humans interact and derive benefits from their environment. 
 
-The answers to many of the major questions in conservation are at the intersection of traditional research disciplines. This suits my impulse to explore new connections between conservation and other research areas. Currently, I mainly draw from ecology, economics and human geography. 
+The answers to many conservation questions are at the intersection of traditional research disciplines. Therefore, I am very keen to explore new connections between conservation and other research areas. At the moment, I mainly draw from ecology, economics and human geography. 
 
  My research is focused on three major themes: 
 
@@ -20,3 +20,4 @@ The answers to many of the major questions in conservation are at the intersecti
 * internal human migration in low and middle income countries in collaboration with [WorldPop](https://www.worldpop.org/) and [Flowminder](https://www.flowminder.org/). 
 * human-environment interactions that brings together my research on ecosystem services, human-wildlife coexistence and human geography. 
 
+Please, check out the [CBER Lunchbox Podcast](https://www.youtube.com/playlist?list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk) and [the episode that I am hosting](https://www.youtube.com/watch?v=VNgjymoS-Dc&list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk&index=4), in which I discuss with Susanne Marieke Vogel the challenges and rewards of academic careers, human-wildlife coexistence and cconscious science. 
