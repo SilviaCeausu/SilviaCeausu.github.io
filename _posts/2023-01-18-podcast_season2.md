@@ -8,12 +8,348 @@ tags:
   - Madagascar
   - Reforestation
   - Climate change
-  - Teaching
-  - AgroParisTech
   - University of Antananarivo
-  - Translational ecology
   - Erasmus Mundus
 
 ---
 
-Check out the [CBER Lunchbox Podcast](https://www.youtube.com/playlist?list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk), Season 2. In this set of 3 episodes, we talk to Dr. Sarobidy Rakotonarivo about research and academic life in Madagascar, with Joshua Powell about carnivore conservation and wildlife trade, and with Prof. Pep Serra-Diaz about transalting ecological research into management actions and nurturing diversity in academia. I am the host interviewing Sarobidy and Pepe and you can find the transcripts of the conversations with Sarobidy [here](https://raw.githubusercontent.com/SilviaCeausu/SilviaCeausu.github.io/main/podcast/transcript_Sarobidy.txt) and with Pep [here](https://raw.githubusercontent.com/SilviaCeausu/SilviaCeausu.github.io/main/podcast/transcripts_Pep.txt). 
+Check out the [CBER Lunchbox Podcast](https://www.youtube.com/playlist?list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk), season 2. In this set of 3 episodes, we talk to Dr. Sarobidy Rakotonarivo about research and academic life in Madagascar, with Joshua Powell about carnivore conservation and wildlife trade, and with Prof. Josep (Pep) Serra-Diaz about transalting ecological research into management actions and nurturing diversity in academia. You can find the CBER Lunchbox Podcast also on Acast, Google podcasts, Spotify, Castbox and Audible. 
+
+In the first episode of this season, I am interviewing Sarobidy Rakotonarivo, a research fellow at University of Antananarivo, Madagascar. After receiving a master’s degree and PhD in Europe, she now works on understanding how tenure rights affect forest restoration and conservation in Madagascar. She was one of the recipients of the top 100 young Conservation Leaders Awards offered by the African Wildlife Foundation and WWF, among other organizations. Join us to find out more about how to mitigate climate change through forest restoration in Madagascar, how a biodiversity-rich country can help its poor farmers, and how does academic life looks like in Africa.
+
+You can find the transcripts of the conversations with Sarobidy below. 
+
+Conservation research and academic life in Madagascar 
+
+00:00:10 Silvia Ceausu
+
+Welcome to the CBER Lunchbox podcast.
+
+00:00:22 Silvia Ceausu
+
+Hi, welcome to the CBER Lunchbox podcast. I'm your host Silvia Ceausu and today I'm chatting with Sarobidy Rakotonarivo. She's currently a research fellow at University of Antananarivo, Madagascar, and she received her PhD degree jointly from Bangor University in the UK and University of Copenhagen in Denmark in 2021, she's one of the recipients of the top 100 young Conservation Leaders Awards offered by the African Wildlife Foundation and WWF, among other organizations, welcome Sarobidy.
+
+00:00:56 Sarobidy Rakotonarivo
+
+Thank you, hi Silvia, thanks so much for having me.
+
+00:01:01 Silvia Ceausu
+
+Thank you for agreeing to join me today. So let's start talking a bit about your current research and what are the geographical areas in which you are working at the moment.
+
+00:01:11 Sarobidy Rakotonarivo
+
+OK so currently I'm researching the importance of land tenure. That is the effect of peoples’ rights to trees and to lands on the effectiveness of forest restoration in Madagascar.
+
+So we know that many tropical countries have made ambitious reforestation commitments and this is for a triple aim. So first it's to mitigate climate change because we know that trees store carbon and it's also to conserve biodiversity and improve local livelihoods. And it's been increasingly recognized that tenure rights, that is that peoples’ rights to lands and to the trees are important enabling conditions for the success of reforestation, or sometimes it's also referred to as forest landscape restoration.
+
+But in much of Africa tenure rights are very complex and there is this huge disconnect between formal legal rights and what we call our customary or traditional rights.
+
+So for instance, in many African contexts people perceive that they have customary rights to the lands that they've been using for years whereas legally, these are still defined as state lands. So I want to know how this complex and contested tenure, which is a widespread problem in Africa and especially in Madagascar, can affect resource investments.
+
+00:02:49 Sarobidy Rakotonarivo
+
+So we are not only focusing on the ecological outcomes of restoration, but also most importantly the role of plant tenure in in sharing that forest restoration results in positive social outcomes, that is in improving local land holds.
+
+00:03:14 Silvia Ceausu
+
+You're researching this mainly in Madagascar or do you have also other areas of research in Africa?
+
+00:03:21 Sarobidy Rakotonarivo
+
+We are mostly focusing on Madagascar, but in our analysis, we are also trying to make this a more you know, like global problem, by looking at the overlap between contested tenure, that is where there are overlapping claims to the lands and various countries that have made ambitious commitments to restoration.
+So it's like starting with the global analysis, but then narrowing down to a single case country study of Madagascar.
+
+00:03:58 Silvia Ceausu
+
+OK, I see. So that that sounds like quite a multidisciplinary research, right? It involves both social science or interviews on the ground, but also other aspects, is that correct?
+
+00:04:10 Sarobidy Rakotonarivo
+
+Yes, yeah, that's correct. So I have a colleague who who's doing the GIS stuff, so he's yeah looking at the spatial data sets and trying to overlap to look at this overlap between contested tenure and restoration commitments. 
+
+00:04:34 Silvia Ceausu
+
+You've traveled quite a lot. You've moved a lot if you've studied in different countries, how does your research career journey look like?
+So when and how did you decide to become a researcher?
+
+00:04:47 Sarobidy Rakotonarivo
+
+Uhm, yeah, that's a good question. So I would say that from a very early age I've always had a very inquisitive mind, so I've always felt the need to do more and to explore more beyond the school curricula.
+So during my free time at high school, I used to, you know, like spend most of them reading books in the library, so that was back in the early 2000s.
+And you know, in countries such as Madagascar, we didn't really have access to Internet. So I was mostly relying on any books I could put my hands on. And yeah, as I said in poor countries such as Madagascar, you don't have many choices. So uhm yeah, I mean, research kind of came naturally to me, but it became more obvious when I started my university years where I studied agronomy and agricultural sciences at university.
+
+00:05:58 Silvia Ceausu
+
+Did you have any particular role models that kind of directed you towards research or towards an academic career?
+
+00:06:09 Sarobidy Rakotonarivo
+
+To be honest, not really. Like I used to to you know, like admire Albert Einstein and yeah, like many of our researchers but I didn't have like any particular role model like any specific role models.
+
+00:06:29 Silvia Ceausu
+
+OK, how did you become interested in the environmental issues that you're researching right now about reforestation and things like that?
+
+00:06:40 Sarobidy Rakotonarivo
+
+So this has always been something that's been, you know, like very close to my heart. So Madagascar is known globally for its unique biodiversity. So we're always talking, we always hear in the news that Madagascar has thousands of animal and plant species it cannot find anywhere else on Earth.
+But then its people are extremely poor and Madagascar is what the World Bank classifies as you know, like one of the least developed countries in the world, and that for me didn't sound right.
+
+00:07:23 Sarobidy Rakotonarivo
+
+So yeah, my first research project, so that was my bachelor thesis many years ago, was on estimating biomass and carbon content in soils. So this was when the concept of global payments for a ecosystem services emerged in the world. So this is a concept where rich countries pay poor countries to conserve their forest through the carbon that they store.
+
+00:07:53 Sarobidy Rakotonarivo
+
+So then I went, I travelled to the southern part of Madagascar. I collected lots of soil samples in the forest. I cut several trees and core them, supposedly to develop more reliable estimates of the carbon that they can store.
+
+00:08:15 Sarobidy Rakotonarivo
+
+So this was my first entry to the research world, so that was our funding was available. I got also selected and I seized the opportunity.  But I got very quickly bored you know, like doing laboratory analysis and you know, like being isolated in my own lab world, so yeah, I knew from there that I needed to go back to my first motivation, which is trying to understand how we can reconcile biodiversity conservation with you know, like the country's economic needs.
+Yeah, so that's when I switched to social sciences and you know, like trying to understand human decision-making. Yeah, which I felt would provide more answers.
+
+00:09:07 Silvia Ceausu
+
+And this switch has happened during your master degree or still while you were working on your bachelor thesis?
+
+00:09:16 Sarobidy Rakotonarivo
+
+So that was during my master thesis that started in 2010 when I first came to Europe to pursue an other MSC degree.
+
+00:09:28 Silvia Ceausu
+
+Right, you are actually an Erasmus Mundus alumna, right?
+I'm also, I did an Erasmus Mundus master degree.
+Did you do both Erasmus Mundus master and a PhD degree, or was there only one degree that was funded by Erasmus Mundus?
+
+00:09:46 Sarobidy Rakotonarivo
+
+Both. Yeah and so I spent the first two years, so that was….. I already had a MSC degree from Madagascar, but I decided to join an MSc degree through this high-quality, high-level study program that's financed by the European Union. And that was also because my English back then was so poor.
+So I could understand and write some English, but I was very bad with speaking. Yeah, so I did both. It was called a double MSc degree in SUTROFOR which stands for sustainable tropical forestry. And then I did a highly competitive joint PhD program called FONASO - Forest for Nature and Society.
+
+00:10:37 Silvia Ceausu
+
+This was also part of the Erasmus Mundus degree?
+
+00:10:41 Sarobidy Rakotonarivo
+
+Yeah. 
+
+00:10:41 Silvia Ceausu
+
+How did you end up applying for it? Or how did you discover the program?
+
+00:10:47 Sarobidy Rakotonarivo
+
+So I came across it by chance to be honest, so I think I found it on social media. And I was like, oh, this looks like the perfect opportunity to both improve my English and also like to do something that I've always really wanted to do, which is to, you know like do more social science and really explore the social-economic part of conservation, the social dimensions, the human dimensions…
+
+00:11:22 Silvia Ceausu
+
+For those that do not know, Erasmus Mundus usually use a consortium of universities for their courses, so you end up actually studying in several countries. And you studied in Bangor and…. was it Denmark or did you go to another country?
+
+00:11:42 Sarobidy Rakotonarivo
+
+So during my master it was Bangor in North Wales and Dresden in eastern Germany. And then my PhD was with Bangor, I came back to Bangor, and Copenhagen, University of Copenhagen, in Denmark.
+
+00:11:59 Silvia Ceausu
+
+So you have a PhD and you also had a few postdocs by now. What do you think is the biggest challenge in a research career?
+
+00:12:09 Sarobidy Rakotonarivo
+
+Yeah, so the biggest challenges in you know such a career and especially in my case, in a developing country context such as Madagascar, I would say are funding and infrastructure which is related to funding so I found it very frustrating at first when I decided to come back to Madagascar in late 2019. So there was basically no funding stream I could apply for from the government. It's not a priority and there is even no budget for doing research here and back then, when I first when I came back, I didn't even manage to get a small desk and a chair at university.
+Yeah, and this is the university I graduated from where I spent like five years of my life and where everyone knows me because I've always been the best graduating student in my university years so you can imagine how hard how harder it can be for even another person. Yeah so there is no funding and there is also currently no prospect for me to become a permanent lecturer because the government is not recruiting and there is a long list of people who graduated even like 10 years ago that would like to be hired as a permanent lecturer.
+
+00:13:44 Sarobidy Rakotonarivo
+
+So I resorted to securing in my own funding through the networks that I've built during my time in Europe. So I'm basically creating my own job and yeah, getting my own funding to be able to keep pursuing research.
+
+00:14:05 Silvia Ceausu
+
+Yeah, does that sound very challenging.  So what keeps you going? What's the most rewarding thing about your research career and what do you like the most about your work?
+
+00:14:16 Sarobidy Rakotonarivo
+
+What keeps me going? I guess it's this quest for new knowledge and another little contribution I can make to, you know, like improving this knowledge and also doing my part in the big problem that I'm really keen to address, which is to, you know, like how can Madagascar's unique and wonderful biodiversity can be used to also benefit its economy.
+Yeah, so what is called the win-win where both people and nature thrive. What I also found the most rewarding, especially since I came back to Madagascar is…. So for the past two years I'm working on a project that was specifically founded to create impact from the many years of research I've been doing on the social aspects of the human dimensions of conservation, and this includes the social impacts of conservation and the local impacts are more specifically like if we've got to create a new protected area, what are the likely impacts on local people's livelihoods for our local community? Is going to be affected?
+
+00:15:43 Sarobidy Rakotonarivo
+
+So this project I'm currently working on mostly primarily aims to support evidence-based policy. And we've been doing different activities that aim to create impacts and this includes, for instance like producing a video to communicate these research results in a novel way, and in a much more personal and human label. And apart from the video we've also been doing other engagement activities with varied stakeholders, like conservation practitioners and decision-makers, like government authorities like a sharing workshop where we covered several stakeholders working in conservation. And where we shared the research results and also facilitating sharing of best practices that conservation practitioners and professionals and development professionals can develop and implement more effective development projects and social safeguard approaches within protected areas in Madagascar.
+
+00:17:01 Silvia Ceausu
+
+What is your favorite field work location? And why?
+
+00:17:06 Sarobidy Rakotonarivo
+
+So I would say it's a small village in the eastern forests of Madagascar and this is because I've developed friendships, very strong relationships and friendships with the villagers. So it's not only about me doing research and interviewing these people, but mostly like sharing their language share a lot of understanding and the lifestyle. Yeah, and a lot of common perspectives on how much they are really, they really value forest conversation, but how conservation projects and initiatives sometimes create negative impacts on their livelihoods and how they are being negatively affected.
+
+00:18:06 Silvia Ceausu
+
+You mentioned a few times the biodiversity of Madagascar. Do you have a favorite species from Madagascar or otherwise from other places?
+
+00:18:16 Sarobidy Rakotonarivo
+
+Favorite species... Yeah, I think everyone loves lemurs and my favorite one is the indri indri, so it's the largest lemur species in Madagascar. And I like its really really nice song. I can't do it unfortunately, but if you google I am sure you’ll find a good one.
+
+00:18:41 Silvia Ceausu
+
+OK, so coming back a bit more in-depth to your research, if you'd have unlimited funding, let's say the funding situation would be much better or you'd have unlimited funding, what do you think would be the project that you could undertake that would be the most impactful for the farmers with which you are working?
+
+00:19:08 Sarobidy Rakotonarivo
+
+And yeah, so I'm currently working on a couple of proposals where I'm really hoping that would give me the funding to carry out, yeah, to step up research. So something that I would be really keen on doing next is looking at what would encourage small scale farmers in rural areas of Madagascar to adopt more sustainable agricultural practices.
+So this is a huge problem because you know, like one of the main drivers of deforestation in Madagascar is this practice of swidden agriculture which is also sometimes known as slash and burn agriculture or locally it's known as tavy.
+
+00:20:06 Sarobidy Rakotonarivo
+
+And I think one of the biggest reasons why deforestation is ongoing in Madagascar is because we haven't really so far managed to understand what are the enablers and also the barriers to the transition to more sustainable farming techniques, what would make farmers abandon this practice, this unsustainable practice of swidden agriculture. So the key research question that I would be really keen on addressing next and looking at the best policy levers that would encourage this transition to… yeah, more sustainable agriculture. 
+
+So I'm mostly interested in two policies. The first one is land tenure. These people perceptions of what rights they have with regard to their land. And also financial incentives like how much, how much would be needed to encourage them to make the switch.
+
+00:21:21 Sarobidy Rakotonarivo
+
+And so I am hoping to do a small, randomized controlled trial where we can look at which of these two policies would be most effective at encouraging the cultural transition. Or yeah, it could also be that both policies are needed. So yeah, this would be my next big project?
+
+00:21:47 Silvia Ceausu
+
+You suspect that those are. The two biggest barriers towards adoption of more sustainable agriculture in Madagascar. So tenure rights and just better funding, right?
+
+00:22:00 Sarobidy Rakotonarivo
+
+Yeah, so these are not suspensions, not sure if this word exists. So these are informed by, you know, like my decade of experience in working on these issues and a decade of many years of spending time in in the rural villages and talking to you know like these very small scale farmers and also, of course the literature.
+
+00:22:27 Silvia Ceausu
+
+So I know you were at COP 26, the climate change conference in Glasgow this year. Especially from the perspective of someone coming from Madagascar, which is already experiencing serious climate change effects, what did you make of the conference and the outcomes?
+
+00:22:45 Sarobidy Rakotonarivo
+
+Yeah, so that was my first COP so it was a very steep learning curve and I was there as part of the Malagasy official party delegate but I was given a specific role so as a researcher. So I was told to be an observer mostly and I wasn't truly taking part in the negotiations. So my main goals were to advise the government and also, like, uh, take part in in the what they call side events which are happening in parallel to the negotiations and at COP 26 I've been invited to take part in a few side events, in some of these side events.
+
+One that was particularly interesting was one organized by Kew Royal Botanical Garden on what makes good nature-based solutions. So nature-based solution has recently gained global traction and it has been labeled as a fundamental solution to tackling climate change. Nature-based solutions are not new, they can include forest restoration or or conservation or forest management.
+
+00:24:09 Sarobidy Rakotonarivo
+
+I wanted to be very critical. I was also wearing my critical social scientist hat so I was asked also to comment on the Glasgow pledge, like several countries are committed to ending deforestation by 2030 and my intervention, my talk was mostly focused on OK, these are good news that this renewed commitment to end deforestation is good news, but I think everything comes down eventually to how the money is going to be used. If it's going to be used on bureaucracy or paying international consultants, it's not going to achieve much and nothing is going to change and things are going to get worse and worse.
+But yeah, if the money is being invested in the things that really matter, such as recognizing and strengthening people's rights to their lands and to other benefits such as carbon revenue and also like improving people's livelihoods, then that's where there is hope that it can make a difference.
+
+00:25:25 Silvia Ceausu
+
+Are you hopeful that this funding is coming or that this type of funding will happen? Just address the the points that you mentioned. Are you optimistic basically?
+
+00:25:40 Sarobidy Rakotonarivo
+
+I would say I'm cautiously optimistic, so the fact that the article six of the Paris Agreement that the rules have been upgraded is certainly good news and that gives us hope that it will unlock the funding that seems very much needed to make this classical pledge happen. But then yeah, we can really have hope we have to to stay optimistic.
+So it's a bit like there is also, like global interest…. there is global interest in conserving Madagascar’s forests. Because, you know, like our forests, they store carbon and also, you know, like this precious, unique biodiversity that I've been talking about. So it's as simple as OK if you want to conserve that that biodiversity, and if you want tropical forests to contribute to tackling climate change, then you've got to pay the costs. Yeah, and channel the funding that is needed to to make conservation happen in countries such as Madagascar. And also restoration of course.
+
+00:26:53 Silvia Ceausu
+
+You're also doing some consultancy. Is that the same as your research, or is it more applied?
+
+00:27:00 Sarobidy Rakotonarivo
+
+No, it's still like very much research based and this is based in Ethiopia where we are looking at the importance of herders, pastoralists, how they response to environmental changes such as climate change or [odd jobs], using an experimental game.
+
+00:27:23 Silvia Ceausu
+
+So what are these experimental games? Do you want to talk a bit about those.
+
+00:27:28 Sarobidy Rakotonarivo
+
+Yeah, so that was, uh…. I started using this approach during my very first postdoc at the University of Stirling. Games are a very fun way and also very engaging tool to understand people's decision making. So I developed them with the help of a colleague from New York. So he's now based at Boston Andrew Bell. So he was the game developer but we were like working together developing the game concept using a platform called Net Logo. So yeah, the aim was really to use games as a novel approach to understanding conflicts, conservation conflicts, which are conflicts happening between biodiversity conservation and food security in several countries across the world. So we worked in Scotland, Gabon, Kenya, Madagascar, Tanzania.
+
+00:28:34 Silvia Ceausu
+
+So, so each farmer is a participant and they play against each other or with each other?
+
+00:28:43 Sarobidy Rakotonarivo
+
+I would say more with each other. So the game was played in a group setting, in a group of four farmers and they were asked to make decisions on a digital farming landscape, so we use tablets. But the game was very visual so they didn't need to know how to read or write to be able to play it.
+
+00:29:06 Sarobidy Rakotonarivo
+
+And we were mostly looking at how they cooperate and how they make decisions collectively because the game rules are interactive, so the decisions that one player make affect the outcomes that the other players get.
+So it was looking at the coordination and cooperation between farmers and how these collective action actually impacts the conservation outcomes or the food security outcomes.
+
+00:29:39 Silvia Ceausu
+
+What were the most interesting conclusions for you from this project?
+
+00:29:43 Sarobidy Rakotonarivo
+
+I think some of the most important findings are that financial incentives matter in that encourage farmers to support conservation interests. But the overall social underpinning, underlying social factors that equally play a big role such as what we call social equity, so that's their ability to make their voices heard. So like playing a role in the decision-making processes is deciding what's best for them.
+
+Yes, so money is important, but so is the consideration of their specific needs and whether they have sufficient ability to to make their voices heard.
+So it quickly was defined as having a three main dimensions, so there is this issue of recognition. And also decision making processes. So this is our ability to participate equitably in the decision-making processes. And then there is this distribution or equity which has to do with how costs and benefits are being distributed across community members and also between different like conservation and development goals.
+
+00:31:17 Silvia Ceausu
+
+And you're one of the recipients of the top 100 young Conservation Leaders Award offered by African Wildlife Foundation and WWF, among other organizations.
+How do you see this role as a conservation leader?  What do you think should be the priorities of African conservation leaders of any age, actually? What should they focus on?
+
+00:31:43 Sarobidy Rakotonarivo
+
+If I were to talk on behalf of all young conservation leaders, I would say that our main responsibility is to ensure that there is something left for the future generation to inherit. Yeah, because these are….. yeah……common heritage, so I have the word in Malagasy but not in English, sorry. In Malagasy is “su iombonana”. 
+So I was selected as part of this top 100 African leaders, mostly because of my contribution to [Meryl] in supporting evidence-based policy. So this is mostly from my last two years of work in Madagascar, where I've been actively trying to to share research results with policymakers and to influence policymaking so that they better consider research results in their decision-making processes.
+
+00:32:49 Sarobidy Rakotonarivo
+
+And you asked, what do I think are the priorities that African conservation leader should be focusing on. So I would say learn from the past and learn from your failures. So at COP 26 I used the example of the airlines industry. So in the airline industry, when they have even the most minor failure affecting procedures, they look very closely at what went wrong. And this is to avoid bigger disasters in the future.
+And in conservation and I feel that we don't look closely or we don't look at all at our failures. I'd like to see more recognition of past failures and also like learning our lessons, a better recognition of the tradeoffs that are inherent in nature-based solutions such as forest conservation to give more hope for future success.
+
+00:33:50 Sarobidy Rakotonarivo
+
+It's so this is basically the need to reconcile diversity conservation with local livelihoods. We can’t just do conservation, we have to also more specifically address people’s livelihood needs. By learning from the past…. so this is coming from years of reflections and also interactions with conservation professionals in African countries, and especially Madagascar. So I've noticed that conservation practitioners they often sometimes tend to assume that conservation and reforestation are always good, that they always result in positive outcomes on people's livelihoods. And even if it's not immediate, in the longer term or medium term, they are going to bring like several benefits to local livelihoods.
+But then they are not very willing to recognize that there can be a local cost to conservation and this cost can be huge. And they can affect many generations. They can be felt by local people over the long term, so I'd like to see more recognition of these trade-offs that are inherent in forest conservation to give more hope for our future success.
+
+00:35:28 Silvia Ceausu
+
+So moving back to this balance between work and personal life, research is such a demanding career, there's so many challenges. How do you deal with finding a work life balance?
+
+00:35:42 Sarobidy Rakotonarivo
+
+Yeah, I'm not sure I found the correct work-life balance, to be honest. I'm still struggling, it's an everyday struggle.
+So I have a young son, he's four years and 1/2 now. And, ah, I had him when I doing my first post doc, so that was in the first year of postdoc and so grateful to my then manager, who kindly agreed to take me in his lab although he knew that I was expecting a baby.
+So that was so hard and so frustrating because I was working alongside a team of I, I think thy were 4 postdocs in the team. And they were all married. They had partners but none has kids. And so yeah, this is something I'm still struggling a bit, but I think I've been very lucky to have a very supportive husband.
+
+00:36:47 Sarobidy Rakotonarivo
+
+So we are both working in the environmental field. He's also working for conservation NGO but more as a practitioner. But he knows the demands of research. He he knows the demands of late-night hours, especially when you are working towards a deadline or when you've got to revise a paper.
+So I think that that has helped me a lot and I wouldn't have been able to do it without him.
+
+00:37:19 Silvia Ceausu
+
+Is there something in particular that you like to do to switch off work and just kind of switch to a non-work status?
+
+00:37:33 Sarobidy Rakotonarivo
+
+Yep, dancing. I love dancing. So I joined a fitness club. So we we ….. It's fitness but it's a lot of fun at the same time. So we do lots of Zumba and also lots of ballroom dancing. Yeah, so that's something I've always enjoyed since I was like in the first year at university.
+
+00:38:00 Silvia Ceausu
+
+Very nice, yes.
+
+00:38:02 Sarobidy Rakotonarivo
+
+Good for the spirit and for the body as well.
+
+00:38:08 Silvia Ceausu
+
+Indeed. So one last question. If you think back, what is the best bit of advice that you've received regarding your research career and that you think, you know, young people considering research should know?
+
+00:38:23 Sarobidy Rakotonarivo
+
+Yeah, the best bit of advice. I think there was even something that stuck with me from the very early stages of my research carrier is that research is iterative and it gets better as you get more experienced. So as an early career researcher and also a Malagasy researcher trying to get published in my third, language - English is my third language - I got very quickly discouraged. Yeah, by you know, like how this writing, this publication process is never to see an end. 
+But then what my what that person - he was a lecturer at Bangor University back then, but he's moved since then - that the research is interactive. Yeah, I think it has helped me a lot to become more patient and you know also more passionate in the research process.
+
+00:39:35 Silvia Ceausu
+
+Thank you very much Sarobidy. This was a great conversation.
+
+00:39:39 Sarobidy Rakotonarivo
+
+Yeah, thank you so much and I really enjoyed it.
+
