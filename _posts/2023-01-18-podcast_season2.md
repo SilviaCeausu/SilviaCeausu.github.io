@@ -1,5 +1,5 @@
 ---
-title: 'CBER Lunchbox Podcast - Season 2 is here'
+title: 'CBER Lunchbox Podcast - Season 2 is here. Conversation with Sarobidy Rakotonarivo'
 date: 2023-01-18
 permalink: /posts/2023/01/blog-post-3/
 tags:
