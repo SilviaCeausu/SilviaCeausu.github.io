@@ -1,7 +1,7 @@
 ---
 title: 'CBER Lunchbox Podcast - Season 2 is here'
 date: 2023-01-18
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2023/01/blog-post-3/
 tags:
   - Podcasts
   - Academic careers
