@@ -1,7 +1,7 @@
 ---
 title: 'CBER Lunchbox Podcast is launched'
 date: 2021-12-13
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2021/12/blog-post-2/
 tags:
   - Podcasts
   - Academic careers
