@@ -1,5 +1,5 @@
 ---
-title: 'CBER Lunchbox Podcast is launched'
+title: 'CBER Lunchbox Podcast is launched. Conversation with Susanne Marieke Vogel'
 date: 2021-12-13
 permalink: /posts/2021/12/blog-post-2/
 tags:
@@ -11,7 +11,9 @@ tags:
 
 ---
 
-Check out the [CBER Lunchbox Podcast](https://www.youtube.com/playlist?list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk), in which the CBER potdcast team explores academic careers with 6 conservation scientists and ecologists across 5 episodes. In [episode 4](https://www.youtube.com/watch?v=VNgjymoS-Dc&list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk&index=4), yours truly is joined by Susanne Marieke Vogel to discuss about her path to an academic career, finding her dream job, human-wildlife coexistence and its challenges, but also conscious science in conservation. You can find the transcript of the conversation below. 
+Check out the [CBER Lunchbox Podcast](https://www.youtube.com/playlist?list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk), in which the CBER potdcast team explores academic careers with 6 conservation scientists and ecologists across 5 episodes. In [episode 4](https://www.youtube.com/watch?v=VNgjymoS-Dc&list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk&index=4), I am joined by Susanne Marieke Vogel, who is a postdoc at Aarhus University in Denmark. After the podcast was recorded, Susanne was offered a position of assistant professor at Open University in the Netherlands, which she will start at the beginning of 2022. In the podcast, she shares details about her life as a master graduate in search of a dream job and how she stumbled upon her PhD project. We also discuss the ethical issues that Western scientists need to consider when working in conservation, and the advantages and challenges of a life in science.
+
+You can find the transcript of the conversation below. 
 
 00:00:10 Silvia Ceaușu
 
