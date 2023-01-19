@@ -14,9 +14,9 @@ tags:
 
 ---
 
-Check out the [CBER Lunchbox Podcast](https://www.youtube.com/playlist?list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk), season 2. You can find the CBER Lunchbox Podcast also on Acast, Google podcasts, Spotify, Castbox and Audible. 
+Check out the CBER Lunchbox Podcast, season 2 on [YouTube](https://www.youtube.com/playlist?list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk) and [Acast](https://shows.acast.com/cber-lunchbox-podcast). You can find the CBER Lunchbox Podcast also on Acast, Google podcasts, Spotify and Audible. 
 
-In episode 3 of this season, I am chatting with Josep (Pep) Serra-Diaz who is an assistant professor at AgriParisTech in France. After getting his PhD from the Autonomous University of Barcelona, Pep started a journey that ended up taking his research on vegetation dynamics from local to global scale, from experiments to models and big data. We discuss real-world impact as an academic, his journey from research assistant to engineering company to PhD, and the challenges of translating science into forest management actions. We also discuss teaching translational ecology, researching across different academic systems, the advantages and disadvantages of the French engineering school system and being gay in academia.
+In [episode 3](https://shows.acast.com/cber-lunchbox-podcast/episodes/translating-research-into-action-and-being-gay-in-academia) of this season, I am chatting with Josep (Pep) Serra-Diaz who is an assistant professor at AgriParisTech in France. After getting his PhD from the Autonomous University of Barcelona, Pep started a journey that ended up taking his research on vegetation dynamics from local to global scale, from experiments to models and big data. We discuss real-world impact as an academic, his journey from research assistant to engineering company to PhD, and the challenges of translating science into forest management actions. We also discuss teaching translational ecology, researching across different academic systems, the advantages and disadvantages of the French engineering school system and being gay in academia.
 You can find the transcript of this conversation below. 
 
 Translating research into action and being gay in academia
