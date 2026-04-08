@@ -28,6 +28,11 @@ Work experience
 Publications
 ======
 ## Peer-reviewed articles
+•	Corniciuc, I., Lotti L., Ferrini S., and Ceaușu S. 2026. Spatial Scale Effects on Environmental Donations: Evidence from a Revised Dictator Game Experiment with Real Payments. Ecological Economics 240 : 108794. DOI: https://doi.org/10.1016/j.ecolecon.2025.108794.
+
+•	Ceaușu, S., Leclère D., and Newbold T. 2025. Geography and Availability of Natural Habitat Determine Whether Cropland Intensification or Expansion Is More Detrimental to Biodiversity. Nature Ecology & Evolution, Nature Publishing Group UK London, 1–16. DOI: https://doi.org/10.1038/s41559-025-02691-x.
+
+•	Millard J., Outhwaite C. L., Ceaușu S., Carvalheiro L. G., Deodato da Silva e Silva F., Dicks L. V., Ollerton J., Newbold T. 2023. Key tropical crops at risk from pollinator biodiversity loss due to climate change and land use. Science Advances. 9, no. 41: eadh0756. DOI: https://doi.org/10.1126/sciadv.adh0756.
 
 •	König, H. J., Ceaușu S., Reed M., Kendall H., Hemminger K., Reinke H., Ostermann‐Miyashita E.-F., et al. Integrated Framework for Stakeholder Participation: Methods and Tools for Identifying and Addressing Human–Wildlife Conflicts. [Conservation Science and Practice 3, no. 3 (2021): e399](https://doi.org/10.1111/csp2.399).
 
@@ -71,6 +76,9 @@ Publications
   
 Talks
 ======
+* Jan. 2026	  **Speaker** for the UCL Lunch Hour Lecture series, which showcase exceptional UCL research for everyone. The lecture are free and available to all.
+* 2021 - 2023 **Co-founder and co-host** of the CBER Lunchbox podcast, which explores the diversity of career paths and experiences in conservation science.
+* Dec. 2021	  **Lead author** of study presented by co-author (due to COVID19) at the British Ecological Society annual meeting – Ecology Across Borders 2021
 * Dec. 2020	  **Presenter** in a thematic session of the British Ecological Society annual meeting, Festival of Ecology, online conference due to COVID19
 * Oct. 2019 	**Presenter, session co-host and volunteer in the organisation team** at the 10th Ecosystem Services Partnership World Conference, Hannover, Germany
 * May 2019 	  **Invited speaker** of the Socio-ecosystems seminar at National Research Institute of Science and Technology for Environment and Agriculture (Irstea) - Grenoble
@@ -87,6 +95,8 @@ Talks
   
 Teaching
 ======
+* 2026		Marking of UCL undergraduate and master students for the course Species Conservation and Biodiversity
+* 2025	- 2026	Personal Academic Tutor for UCL master students
 * 2018		Lecture on human-wildlife coexistence, Biogeography & Macroecology - postgraduate course, Aarhus University. 
 * 2018		Supervision of four students for nine weeks conducting a research project for Theory and Practice in Biological Research – undergraduate course, Aarhus University. 
 * 2017		Lecture on conservation planning and area prioritization, Biogeography & Macroecology - master course, Aarhus University. In addition to the lecture itself, I conducted a practical exercise on conservation planning and guided discussions among the students. 
