@@ -16,8 +16,8 @@ The answers to many conservation questions are at the intersection of traditiona
 
  My research is focused on three major themes: 
 
-* conservation and rewilding in agricultural landscapes. I am currently researching the ecosystem service and biodiversity impacts of agriculture and climate change within the Sustainable and Healthy Food Systems - Southern Africa (SHEFS-SA) - a Wellcome Trust-funded project. 
-* internal human migration in low and middle income countries in collaboration with [WorldPop](https://www.worldpop.org/) and [Flowminder](https://www.flowminder.org/). 
-* human-environment interactions that brings together my research on ecosystem services, human-wildlife coexistence and human geography. For example, I have recetnly explored the role of spatial scale in the perceived value of nature as part of a UCL Grand Challenge of Human Wellbeing grant. The study has been recently published in [Ecological Economics](https://www.sciencedirect.com/science/article/pii/S0921800925002770). 
+* Conservation and rewilding in agricultural landscapes. I am currently researching the ecosystem service and biodiversity impacts of agriculture and climate change within the Sustainable and Healthy Food Systems - Southern Africa (SHEFS-SA) - a Wellcome Trust-funded project. 
+* Internal human migration in low and middle income countries in collaboration with [WorldPop](https://www.worldpop.org/) and [Flowminder](https://www.flowminder.org/). 
+* How we value the environment. I have recently explored the role of spatial scale in the perceived value of nature as part of a UCL Grand Challenge of Human Wellbeing grant. The study has been published in [Ecological Economics](https://www.sciencedirect.com/science/article/pii/S0921800925002770). 
 
 Please, check out the [CBER Lunchbox Podcast](https://www.youtube.com/playlist?list=PLKYTvTbXFuChwnj9kVKqVl5XPZrU9P7bk)  
