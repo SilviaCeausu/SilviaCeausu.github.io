@@ -10,6 +10,12 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 
 # Peer-reviewed articles
 
+• Corniciuc, I., Lotti L., Ferrini S., and Ceaușu S. 2026. Spatial Scale Effects on Environmental Donations: Evidence from a Revised Dictator Game Experiment with Real Payments. [Ecological Economics 240 : 108794](https://doi.org/10.1016/j.ecolecon.2025.108794).
+
+• Ceaușu, S., Leclère D., and Newbold T. 2025. Geography and Availability of Natural Habitat Determine Whether Cropland Intensification or Expansion Is More Detrimental to Biodiversity. [Nature Ecology & Evolution, Nature Publishing Group UK London, 1–16](https://doi.org/10.1038/s41559-025-02691-x).
+
+• Millard J., Outhwaite C. L., Ceaușu S., Carvalheiro L. G., Deodato da Silva e Silva F., Dicks L. V., Ollerton J., Newbold T. 2023. Key tropical crops at risk from pollinator biodiversity loss due to climate change and land use. [Science Advances. 9, no. 41: eadh0756](https://doi.org/10.1126/sciadv.adh0756).
+
 •	König, H. J., Ceaușu S., Reed M., Kendall H., Hemminger K., Reinke H., Ostermann‐Miyashita E.-F., et al. Integrated Framework for Stakeholder Participation: Methods and Tools for Identifying and Addressing Human–Wildlife Conflicts. [Conservation Science and Practice 3, no. 3 (2021): e399](https://doi.org/10.1111/csp2.399).
 
 •	Ceaușu, S., Apaza-Quevedo A., Schmid M., Martín-López B., Cortés-Avizanda A., Maes J., Brotons L., Queiroz C., and Pereira H. M. 2021, Ecosystem service sapping needs to capture more effectively the biodiversity important for service supply. [Ecosystem Services 48 (April 1, 2021): 101259](https://www.sciencedirect.com/science/article/pii/S2212041621000176). 
